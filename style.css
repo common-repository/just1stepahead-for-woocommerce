@@ -1,0 +1,10 @@
+.j1sa-readonly-field {
+    display: none;
+    border: none;
+    display: inline;
+    font-family: inherit;
+    font-size: inherit;
+    padding: none;
+    width: auto;
+    background: rgba(0,0,0,0);
+}

@@ -1,0 +1,14 @@
+{
+    "name": "isaackwan/j1sa-woocommerce",
+    "type": "library",
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.9"
+    },
+    "authors": [
+        {
+            "name": "Isaac Kwan",
+            "email": "isaack@yottadevelop.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
